@@ -1,3 +1,5 @@
+# There exists useless things in this world. This repository is one of them!
+
 # KLEE-Symbolic-Execution-Py
 Failed attempt at mimicking KLEE in Python
 
