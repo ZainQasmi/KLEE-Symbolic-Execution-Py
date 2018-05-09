@@ -1,3 +1,8 @@
+```diff
+# + this will be highlighted in green
+- this will be highlighted in red
+```
+
 # There exists useless things in this world. This repository is one of them!
 
 # KLEE-Symbolic-Execution-Py
