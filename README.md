@@ -1,8 +1,6 @@
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-
-
-# There exists useless things in this world. This repository is one of them!
-
+```diff
+- There exists useless things in this world. This repository is one of them!
+```
 # KLEE-Symbolic-Execution-Py
 Failed attempt at mimicking KLEE in Python
 
